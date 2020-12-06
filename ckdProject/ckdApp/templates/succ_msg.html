@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+
+{% block body_block %}
+{% load static %}
+<div class="jumbotron">
+    <h1>Chronic Kidney Disease </h1>
+    <div class="fieldWrapper">
+      <h2>For the values</h2>
+      <p>Blood_Glucose_Random:{{data_bgr}}</p>
+      <p>Blood_Urea:{{data_bu}}</p>
+      <p>Serum_Creatine:{{data_sc}}</p>
+      <p>Packed_cell_volume:{{data_pcv}}</p>
+      <p>White_blood_count:{{data_wc}}</p>
+      <br>
+      {% if out == 1 %}
+        <p>You <b>will have</b>  chronic Kidney Disease in the future: <b>Positive</b></p>
+      {% else %}
+        <p>You <b>will not</b> have  chronic Kidney Disease in the future:<b>Negative</b></p>
+
+      {% endif %}
+      <br>
+      <br>
+      <img  class="mx-auto d-block" style="width: 1000px; height: 500px" alt="posneg" src= "{% static 'force_plot.png' %}"/>
+      <br>
+      <br>
+    <a  href="{% url 'ckdApp:ckd' %}">CKD Predicition</a>
+    <br>
+</div>
+{% endblock %}
