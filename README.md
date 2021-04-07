@@ -5,6 +5,10 @@ In this App various methods have been explored such as Random Forest Classfifer 
 
 It was found that Random Forest Classifier Algorithm performed better on the data compared to KNN classifier.
 
+
+Output of the project:- 
+https://user-images.githubusercontent.com/60535124/113891914-23449680-97e3-11eb-8d64-46cfdcb9ad59.png
+
 References I used as part of the project:- 
 
 https://www.simplilearn.com/tutorials/machine-learning-tutorial/random-forest-algorithm
