@@ -7,16 +7,18 @@ It was found that Random Forest Classifier Algorithm performed better on the dat
 
 
 Output of the project:- 
-https://user-images.githubusercontent.com/60535124/113891914-23449680-97e3-11eb-8d64-46cfdcb9ad59.png
+  https://user-images.githubusercontent.com/60535124/113891914-23449680-97e3-11eb-8d64-46cfdcb9ad59.png
 
-References I used as part of the project:- 
 
-https://www.simplilearn.com/tutorials/machine-learning-tutorial/random-forest-algorithm
 
-https://builtin.com/data-science/random-forest-algorithm
+References used as part of the project:- 
 
-https://www.datacamp.com/community/tutorials/k-nearest-neighbor-classification-scikit-learn
+  https://www.simplilearn.com/tutorials/machine-learning-tutorial/random-forest-algorithm
 
-https://www.javatpoint.com/k-nearest-neighbor-algorithm-for-machine-learning
+  https://builtin.com/data-science/random-forest-algorithm
+
+  https://www.datacamp.com/community/tutorials/k-nearest-neighbor-classification-scikit-learn
+
+  https://www.javatpoint.com/k-nearest-neighbor-algorithm-for-machine-learning
 
 
