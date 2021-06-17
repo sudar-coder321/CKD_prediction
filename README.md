@@ -13,12 +13,12 @@ It was found that Random Forest Classifier Algorithm performed better on the dat
 
 ## References used as part of the project:- 
 
-  [Random Forest Classifier Algorithm - ref link 1](https://www.simplilearn.com/tutorials/machine-learning-tutorial/random-forest-algorithm)
+   - [Random Forest Classifier Algorithm - ref link 1](https://www.simplilearn.com/tutorials/machine-learning-tutorial/random-forest-algorithm)
 
-  [Random Forest Classifier Algorithm - ref link 2](https://builtin.com/data-science/random-forest-algorithm)
+   - [Random Forest Classifier Algorithm - ref link 2](https://builtin.com/data-science/random-forest-algorithm)
 
-  [KNN Classification Algorithm - ref link 1](https://www.datacamp.com/community/tutorials/k-nearest-neighbor-classification-scikit-learn)
+   - [KNN Classification Algorithm - ref link 1](https://www.datacamp.com/community/tutorials/k-nearest-neighbor-classification-scikit-learn)
 
-  [KNN Classification Algorithm - ref link 2](https://www.javatpoint.com/k-nearest-neighbor-algorithm-for-machine-learning)
+   - [KNN Classification Algorithm - ref link 2](https://www.javatpoint.com/k-nearest-neighbor-algorithm-for-machine-learning)
 
 
