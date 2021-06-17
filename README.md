@@ -6,12 +6,12 @@ In this App various methods such as Random Forest Classfifer and K nearest Neigh
 It was found that Random Forest Classifier Algorithm performed better on the data compared to KNN classifier.
 
 
-## Output of the project:- 
+## Output of the project
   [Click here](https://user-images.githubusercontent.com/60535124/113891914-23449680-97e3-11eb-8d64-46cfdcb9ad59.png)
 
 
 
-## References used as part of the project:- 
+## References used as part of the project
 
    - [Random Forest Classifier Algorithm - ref link 1](https://www.simplilearn.com/tutorials/machine-learning-tutorial/random-forest-algorithm)
 
