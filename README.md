@@ -3,7 +3,7 @@ This is an app for detecting whether the person has chronic disease or not based
 
 In this App various methods such as Random Forest Classfifer and K nearest Neighbours have been compared to decide which give better accuracy.
 
-It was found that Random Forest Classifier Algorithm performed better on the data compared to KNN classifier.
+It was found that Random Forest Classifier Algorithm with the numebr if trees increased to 41 performed better on the data compared to KNN classifier.
 
 
 ## Output of the project
