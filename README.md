@@ -1,7 +1,7 @@
 # Chronic-Kidney-Disease-Prediction
 This is an app for detecting whether the person has chronic disease or not based on input data taken from web UI and passing to Django sq3lite database in backend
 
-The Input Data Constititued of 
+The Input Data Constititued of factors such as Blood_Glucose_Random ,Blood_Urea ,Serum_Creatine , Packed_cell_volume , White_blood_count
 
 In this App various methods such as Random Forest Classfifer and K nearest Neighbours have been compared to decide which give better accuracy.
 
