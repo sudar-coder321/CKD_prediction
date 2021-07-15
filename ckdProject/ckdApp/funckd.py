@@ -51,17 +51,14 @@ class ckd:
         classifier.fit(X_train, y_train)
 
         # Predicting the Test set results
-        y_pred = classifier.predict(X_test)
+        y_pred = classifier.predict( X_test )
 
         # Making the Confusion Matrix
-        cm = confusion_matrix(y_test, y_pred)
+        cm = confusion_matrix( y_test, y_pred )
 
-       
-        cm = confusion_matrix(y_test, y_pred)
+        Accuracy=accuracy_score( y_test, y_pred )
 
-        Accuracy=accuracy_score(y_test, y_pred )
-
-        report=classification_report(y_test, y_pred)
+        report=classification_report( y_test, y_pred )
         
         return  classifier,Accuracy,report,X_test,y_test,cm,X_test
     
