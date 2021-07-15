@@ -10,7 +10,8 @@ It was found that Random Forest Classifier Algorithm with the numebr if trees in
 
 ## Output of the project
   
-  Changes Dynamically on each execution using a library called SHAP.initJS and a force_plot is used to demonstrate the working of the prediction system
+  Changes Dynamically on each execution using a library called SHAP.initJS and a force_plot is used to demonstrate the working of the prediction system. 
+  
   [Click here](https://user-images.githubusercontent.com/60535124/113891914-23449680-97e3-11eb-8d64-46cfdcb9ad59.png)
 
 ## References used as part of the project
